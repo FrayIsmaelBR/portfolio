@@ -1,2 +1,3 @@
-const holaMundo = "Hola 2.0";
+const holaMundo = "Hola 2.5";
+
 
